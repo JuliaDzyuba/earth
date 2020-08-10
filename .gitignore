@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/earth
+/app
 
 # misc
 .DS_Store
